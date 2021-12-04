@@ -1,0 +1,11 @@
+clear all;
+load data;
+k_medians(data, 2);
+k_medians(data, 2);
+k_medians(data, 2);
+k_medians(data, 3);
+k_medians(data, 3);
+k_medians(data, 3);
+k_medians(data, 4);
+k_medians(data, 4);
+k_medians(data, 4);
